@@ -3,7 +3,7 @@
 
 
 
-![My Project](https://github.com/rayaneghilene/ENSEA_AI_Labs/blob/283948d09f73231c4cfba91becbe4bb01973b4f4/Ensea_linkedin_banner10.png)
+![My Project](https://github.com/rayaneghilene/CONAN/blob/master/Images/CY_ENSEA_banner10.png)
 
 
 
@@ -22,13 +22,14 @@ The repository contains different methods used for this purpose such as the fine
 ### Hate speech Classification
 
 I started by Training a model on Hate speech Classification, the model calculates the probability of a text's label and returns the highest one.
+![Prompt](https://github.com/rayaneghilene/CONAN/blob/master/Images/Fichier%20210.png)
 
 ### Fine-tuning of a GPT-2 Model
 
 This method consisted of fine-tuning a GPT-2 Model for counter-narratives generation for hate speech. it was trained on the multitarget CONAN Dataset.
 Here's an example prompt that the model was able to generate
 
-![My Project](https://github.com/rayaneghilene/ENSEA_AI_Labs/blob/283948d09f73231c4cfba91becbe4bb01973b4f4/Ensea_linkedin_banner10.png)
+![Prompt](https://github.com/rayaneghilene/CONAN/blob/master/Images/Prompt_example10.png)
 
 
 
